@@ -226,7 +226,7 @@ Usage:  `./tweaks.sh [OPTIONS...]`
  Set 'WhiteSur' GDM theme opacity variants. Default is 'normal'
 
   -c, --color [Light|Dark]
- Set 'WhiteSur' GDM and Dash to Dock theme color variants. Default is 'light'
+ Set 'WhiteSur' GDM and Dash to Dock theme color variants. Default is 'Light'
 
   -t, --theme [default|blue|purple|pink|red|orange|yellow|green|grey]
  Set 'WhiteSur' GDM theme accent color. Default is BigSur-like theme
